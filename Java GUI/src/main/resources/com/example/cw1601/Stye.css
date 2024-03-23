@@ -1,0 +1,20 @@
+.button{
+-fx-background-color: linear-gradient(to bottom left,red,orange);
+-fx-text-fill:White;
+}
+.button:hover{
+-fx-background-color:linear-gradient(to bottom left,orange,red);}
+.button:focused{
+-fx-background-color:red;}
+.button2{
+-fx-border-color:white;
+-fx-background-color: linear-gradient(to bottom left,red,orange);
+-fx-text-fill:White;
+}
+.button2:hover{
+-fx-background-color:linear-gradient(to bottom left,orange,red);}
+.button2:focused{
+-fx-background-color:red;}
+.sfdsdf{
+-fx-background-color: linear-gradient(to bottom left,red,orange);
+}
